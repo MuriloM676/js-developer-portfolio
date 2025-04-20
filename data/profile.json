@@ -1,9 +1,9 @@
 {
   "name": "Murilo Martins",
   "photo": "https://avatars.githubusercontent.com/u/22965704?v=4",
-  "job": "Engenheiro de Software NuBank",
+  "job": "Engenheiro de Software",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
+  "phone": "(14) 991372957",
   "email": "murilom676@gmail.com",
   "skills": {
     "hardSkills": [
@@ -16,16 +16,16 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
+        "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Postgresql",
